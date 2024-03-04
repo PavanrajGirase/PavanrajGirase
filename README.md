@@ -1,3 +1,4 @@
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://PavanrajGirase.io)
 <h1 align="center">Hi 👋, I'm Pavanraj Girase</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -6,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Web Designs**
 
-- 🌱 I’m currently learning **Full Stack Java Developers**
+- 🌱 I’m currently learning **Full Stack Developers**
 
 - 📫 How to reach me **pavanrajgirase29@gmail.com**
 
