@@ -1,58 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Hi%20There!%20I'm%20Pavanraj%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MCA%20Graduate%20%7C%20India&descAlignY=55&descSize=18" width="100%"/>
+```
+   ___                                        _   ___                        
+  | _ \__ ___ ____ ____  _ _ __ _ ___ (_) / __(_)_ _ __ _ ___ ___ 
+  |  _/ _` \ V / _` | ' \| '_/ _` |___ | | | (_ | | '_/ _` (_-</_-
+  |_| \__,_|\_/\__,_|_||_|_| \__,_|   |_|_|\___|_|_| \__,_/__/__/
+```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=560&lines=Building+full-stack+web+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+MySQL+%7C+Supabase;Turning+client+ideas+into+real+products;Always+learning%2C+always+shipping." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=22D3EE&background=0D1117&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+name%3A+%22Pavanraj+Girase%22+%7D;role%3A+%22Full+Stack+Developer%22;stack%3A+%5B%22React%22%2C+%22Node%22%2C+%22MySQL%22%2C+%22Supabase%22%5D;status%3A+%22Shipping+client+projects+%40+TattvaStack%22;console.log(%22thanks+for+visiting+%F0%9F%91%8B%22)%3B" />
 
 </div>
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+```yaml
+whoami:
+  name: Pavanraj Girase
+  education: MCA Graduate
+  role: Software Developer (Full Stack)
+  team: TattvaStack — 3-person dev startup
+  location: India
+  currently_learning: "Advanced backend patterns, AI-assisted dev workflows"
+  fun_fact: "Ships client sites faster than clients decide on colors 🎨"
+```
 
-### 🚀 About Me
+<br/>
 
-- 🎓 MCA Graduate, working as a **Software Developer**
-- 🧩 Part of **TattvaStack** — a 3-person startup building client web projects
-- 🛠️ Currently building full-stack apps with **React, Node.js, Express, MySQL & Supabase**
-- 🐍 Also comfortable with **Python** for scripting & automation
-- 📍 Based in **India**
-- 💬 Ask me about **React, Node.js, REST APIs, Tailwind CSS, Redux**
-- ⚡ Fun fact: I like turning boring client requirements into clean, animated UIs
+<table>
+<tr><td>
 
-</td>
-<td width="40%" valign="top" align="center">
+### 📡 Signal
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="300"/>
+| | |
+|---|---|
+| 🧠 | Turning client requirements into real, working products |
+| 🔧 | Frontend → React, Redux, Tailwind CSS |
+| ⚙️ | Backend → Node.js, Express, REST APIs |
+| 🗄️ | Database → MySQL, Supabase (Postgres) |
+| 🐍 | Scripting / automation → Python |
+| 📬 | Reach me → **pavanrajgirase29@gmail.com** |
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-### 🧰 Tech Stack
+### ⚡ Stack Radar
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postgres,supabase,tailwind,redux,js,html,css,python,git,github,figma,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=PavanrajGirase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanrajGirase&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanrajGirase&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+| Frontend | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| ![React](https://skillicons.dev/icons?i=react) | ![Node](https://skillicons.dev/icons?i=nodejs) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Express](https://skillicons.dev/icons?i=express) | ![Postgres](https://skillicons.dev/icons?i=postgres) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
+| ![Redux](https://skillicons.dev/icons?i=redux) | ![Python](https://skillicons.dev/icons?i=python) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Figma](https://skillicons.dev/icons?i=figma) |
 
 </div>
 
@@ -60,22 +61,40 @@
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🐍 Contribution Snake
 
-<a href="https://linkedin.com/in/pavanraj-girase-30a06b255" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:pavanrajgirase29@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ animates automatically once you enable the <code>snake.yml</code> GitHub Action on your profile repo</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PavanrajGirase&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=PavanrajGirase&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📟 Terminal
+
+```bash
+$ cd Pavanraj/socials
+$ ls -la
+```
+
+<a href="https://linkedin.com/in/pavanraj-girase-30a06b255"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE"/></a>
+<a href="mailto:pavanrajgirase29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=instagram&logoColor=22D3EE"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PavanrajGirase&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=PavanrajGirase.PavanrajGirase&color=0D1117)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
