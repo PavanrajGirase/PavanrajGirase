@@ -1,59 +1,48 @@
 <div align="center">
 
-```
-   ___                                        _   ___                        
-  | _ \__ ___ ____ ____  _ _ __ _ ___ (_) / __(_)_ _ __ _ ___ ___ 
-  |  _/ _` \ V / _` | ' \| '_/ _` |___ | | | (_ | | '_/ _` (_-</_-
-  |_| \__,_|\_/\__,_|_||_|_| \__,_|   |_|_|\___|_|_| \__,_/__/__/
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&text=Pavanraj%20Girase&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=22D3EE&background=0D1117&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+name%3A+%22Pavanraj+Girase%22+%7D;role%3A+%22Full+Stack+Developer%22;stack%3A+%5B%22React%22%2C+%22Node%22%2C+%22MySQL%22%2C+%22Supabase%22%5D;status%3A+%22Shipping+client+projects+%40+TattvaStack%22;console.log(%22thanks+for+visiting+%F0%9F%91%8B%22)%3B" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MySQL+%7C+Supabase;Building+for+TattvaStack+%F0%9F%9A%80;Turning+client+ideas+into+real+products" />
+
+<br/>
+
+🎓 MCA Graduate &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 📍 India
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="260"/>
 
 </div>
 
 <br/>
 
-```yaml
-whoami:
-  name: Pavanraj Girase
-  education: MCA Graduate
-  role: Software Developer (Full Stack)
-  team: TattvaStack — 3-person dev startup
-  location: India
-  currently_learning: "Advanced backend patterns, AI-assisted dev workflows"
-  fun_fact: "Ships client sites faster than clients decide on colors 🎨"
+### 🧭 Currently
+
+```
+🔭 Working on   : Client web projects @ TattvaStack
+🌱 Learning     : Advanced backend patterns, AI-assisted dev workflows
+🤝 Open to      : Freelance / full-stack collaborations
+📫 Reach me at  : pavanrajgirase29@gmail.com
 ```
 
 <br/>
 
-<table>
-<tr><td>
+### 💼 What I Build
 
-### 📡 Signal
-
-| | |
-|---|---|
-| 🧠 | Turning client requirements into real, working products |
-| 🔧 | Frontend → React, Redux, Tailwind CSS |
-| ⚙️ | Backend → Node.js, Express, REST APIs |
-| 🗄️ | Database → MySQL, Supabase (Postgres) |
-| 🐍 | Scripting / automation → Python |
-| 📬 | Reach me → **pavanrajgirase29@gmail.com** |
-
-</td></tr>
-</table>
+```
+🌐 Business websites for real clients (transport, retail, e-commerce, travel)
+🛒 E-commerce sites with admin panels
+🎬 Animated, modern frontends (React + Framer Motion)
+🔌 Full-stack apps with REST APIs & databases
+```
 
 <br/>
 
 <div align="center">
 
-### ⚡ Stack Radar
+### 🛠️ Tech Stack
 
-| Frontend | Backend | Database | Tools |
-|:---:|:---:|:---:|:---:|
-| ![React](https://skillicons.dev/icons?i=react) | ![Node](https://skillicons.dev/icons?i=nodejs) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Express](https://skillicons.dev/icons?i=express) | ![Postgres](https://skillicons.dev/icons?i=postgres) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
-| ![Redux](https://skillicons.dev/icons?i=redux) | ![Python](https://skillicons.dev/icons?i=python) | ![Supabase](https://skillicons.dev/icons?i=supabase) | ![Figma](https://skillicons.dev/icons?i=figma) |
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postgres,tailwind,redux,python,git,figma,vscode,js" />
 
 </div>
 
@@ -65,36 +54,37 @@ whoami:
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚠️ animates automatically once you enable the <code>snake.yml</code> GitHub Action on your profile repo</sub>
+<br/>
 
-</div>
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=PavanrajGirase&theme=radical&no-frame=true&row=1&column=6" />
 
 <br/>
 
-<div align="center">
+### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=PavanrajGirase&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=PavanrajGirase&theme=github-dark-blue&hide_border=true&background=0D1117" width="48%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 📟 Terminal
-
-```bash
-$ cd Pavanraj/socials
-$ ls -la
-```
-
-<a href="https://linkedin.com/in/pavanraj-girase-30a06b255"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="mailto:pavanrajgirase29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=flat-square&logo=gmail&logoColor=22D3EE"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=flat-square&logo=instagram&logoColor=22D3EE"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=PavanrajGirase&show_icons=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanrajGirase&theme=radical&hide_border=true" width="49%" />
 
 <br/><br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=PavanrajGirase.PavanrajGirase&color=0D1117)
+### 💬 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+### 🌐 Connect
+
+<a href="https://linkedin.com/in/pavanraj-girase-30a06b255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pavanrajgirase29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PavanrajGirase&color=4F46E5&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
 
 </div>
